@@ -1,0 +1,22 @@
+/* */
+
+body {
+    background-color: #E9ECEF ;
+    font-size: 18px;
+}
+
+.card {
+    width: 18rem;
+    
+}
+.middle {
+        max-width:100ch;
+        width: 55%;
+        margin-left: auto;
+}
+.jumbotron {
+    padding-bottom: 0;
+}
+h4 {
+    color: orangered;
+}
